@@ -4,3 +4,6 @@ init
 commit
 push
 pull
+diff
+merge
+git
